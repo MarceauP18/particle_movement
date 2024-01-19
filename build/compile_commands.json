@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/marceau/Projet/particle_movement/build",
+  "command": "/usr/bin/c++  -I/home/marceau/Projet/particle_movement/src -g -o CMakeFiles/pbd_simulation.dir/src/pbd/Context.cpp.o -c /home/marceau/Projet/particle_movement/src/pbd/Context.cpp",
+  "file": "/home/marceau/Projet/particle_movement/src/pbd/Context.cpp"
+},
+{
+  "directory": "/home/marceau/Projet/particle_movement/build",
+  "command": "/usr/bin/c++  -I/home/marceau/Projet/particle_movement/src -g -o CMakeFiles/pbd_simulation.dir/src/pbd/Particle.cpp.o -c /home/marceau/Projet/particle_movement/src/pbd/Particle.cpp",
+  "file": "/home/marceau/Projet/particle_movement/src/pbd/Particle.cpp"
+},
+{
+  "directory": "/home/marceau/Projet/particle_movement/build",
+  "command": "/usr/bin/c++  -I/home/marceau/Projet/particle_movement/src -g -o CMakeFiles/pbd_simulation.dir/src/pbd/Vec2.cpp.o -c /home/marceau/Projet/particle_movement/src/pbd/Vec2.cpp",
+  "file": "/home/marceau/Projet/particle_movement/src/pbd/Vec2.cpp"
+},
+{
+  "directory": "/home/marceau/Projet/particle_movement/build",
+  "command": "/usr/bin/c++  -I/home/marceau/Projet/particle_movement/src -g -o CMakeFiles/pbd_test.dir/src/main.cpp.o -c /home/marceau/Projet/particle_movement/src/main.cpp",
+  "file": "/home/marceau/Projet/particle_movement/src/main.cpp"
+},
+{
+  "directory": "/home/marceau/Projet/particle_movement/build",
+  "command": "/usr/bin/c++ -Dpy_pbd_simulation_EXPORTS -I/home/marceau/Projet/particle_movement/src -isystem /usr/include/python3.10 -isystem /home/marceau/Projet/particle_movement/ext/pybind11/include -g -fPIC -fvisibility=hidden -o CMakeFiles/py_pbd_simulation.dir/src/py_binding.cpp.o -c /home/marceau/Projet/particle_movement/src/py_binding.cpp",
+  "file": "/home/marceau/Projet/particle_movement/src/py_binding.cpp"
+}
+]

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpbd_simulation.a CMakeFiles/pbd_simulation.dir/src/pbd/Context.cpp.o CMakeFiles/pbd_simulation.dir/src/pbd/Particle.cpp.o CMakeFiles/pbd_simulation.dir/src/pbd/Vec2.cpp.o
+/usr/bin/ranlib libpbd_simulation.a
